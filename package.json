@@ -1,0 +1,26 @@
+{
+  "name": "fetch-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saradraj/Fetch-Unit-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saradraj/Fetch-Unit-Testing/issues"
+  },
+  "homepage": "https://github.com/saradraj/Fetch-Unit-Testing#readme",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
